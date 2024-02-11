@@ -1,11 +1,11 @@
-h1{
+.heading-class{
     color:"blue";
-    background:orange;
+    background: yellow;
 }
 
 body{
     color:chocolate;
-    background:magenta;
+    background:red;
 }
 
 button{
@@ -13,3 +13,4 @@ button{
     background:brown;
 }
 
+`
